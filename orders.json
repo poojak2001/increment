@@ -54,19 +54,5 @@
     "OrderDate": "2024-05-03T15:00:00Z",
     "UpdatedDate": "2024-05-09T10:00:00Z",
     "Amount": 230.0
-  },
-  {
-    "OrderID": 1008,
-    "CustomerID": "C009",
-    "OrderDate": "2024-05-09T15:00:00Z",
-    "UpdatedDate": "2024-05-10T10:00:00Z",
-    "Amount": 230.0
-  },
-  {
-    "OrderID": 1002,
-    "CustomerID": "C0013",
-    "OrderDate": "2024-05-13T15:00:00Z",
-    "UpdatedDate": "2024-05-20T10:00:00Z",
-    "Amount": 230.0
   }
 ]
